@@ -12,6 +12,7 @@ body {
     background-image: url(background2.png);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     color: white;   
     }
 .titulo-destaque {
